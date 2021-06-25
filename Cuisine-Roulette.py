@@ -51,7 +51,7 @@ print()
 
 Address = input("Please input your address: ")
 print()
-Price = input("Please input price limits ($-$$$$):")
+Price = input("Please input price limits ($-$$$$): ")
 
 print('------------------------------------------')
 price_num = str(len(Price))
