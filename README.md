@@ -1,6 +1,6 @@
 # Cuisine Roulette
 
-## Set UP
+## Set Up
 
 ### Repo 
 
