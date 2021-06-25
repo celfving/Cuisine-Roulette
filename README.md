@@ -33,7 +33,7 @@ conda create -n Cuisine-env python=3.8
 conda activate Cuisine-env
 ```
 
-Once you've created your conda envrionment, use the following code to install the necessary packages: 
+Once you've created your Anaconda envrionment, use the following code to install the necessary packages: 
 ```sh
 pip install -r requirements.txt
 pip install pytz
